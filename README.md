@@ -1,1 +1,1 @@
-Simple example to connect your nodejs server to an Azure MSSQL database
+Simple example to connect a nodejs server to an Azure MSSQL database
